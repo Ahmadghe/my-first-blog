@@ -1,3 +1,8 @@
 h1 a {
     color: #ACE317;
+    font-family: 'Anton';
+}
+
+body {
+    padding-left: 15px;
 }
